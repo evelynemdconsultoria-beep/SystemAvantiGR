@@ -15,3 +15,7 @@ yarn-error.log*
 # Arquivos de backup temporários
 *.bak
 *.save
+
+# build & deps
+.next/
+node_modules/
