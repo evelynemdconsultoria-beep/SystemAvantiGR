@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+**/node_modules/
+
+# Builds/outputs do Next
+.next/
+**/.next/
+out/
+dist/
+
+# Logs temporários
+npm-debug.log*
+yarn-error.log*
+
+# Arquivos de backup temporários
+*.bak
+*.save
