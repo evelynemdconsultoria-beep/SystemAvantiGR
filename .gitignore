@@ -19,3 +19,7 @@ yarn-error.log*
 # build & deps
 .next/
 node_modules/
+
+# build & deps
+.next/
+node_modules/
